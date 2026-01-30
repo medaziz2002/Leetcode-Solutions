@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/medaziz2002/Problem_solving_solutions/tree/master/0013-roman-to-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/medaziz2002/Problem_solving_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
@@ -32,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/medaziz2002/Problem_solving_solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/medaziz2002/Problem_solving_solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/medaziz2002/Problem_solving_solutions/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/medaziz2002/Problem_solving_solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
